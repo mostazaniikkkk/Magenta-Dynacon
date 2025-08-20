@@ -1,0 +1,3 @@
+class {ClassName}(Base, CRUDMixin):
+    __tablename__ = '{table_name}'
+    __table__ = table
