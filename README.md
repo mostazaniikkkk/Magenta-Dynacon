@@ -57,13 +57,13 @@ session.commit()
 ```
 ### INI file
 ```ini
-[Mi DB]
+[my_db]
 source = sqlite
 username = 
 password = 
 host = 
 port = 
-base = ./miarchivo.db
+base = ./myfile.db
 ```
 
 ---
