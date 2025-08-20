@@ -34,6 +34,7 @@ With **Magenta Dynaconn**, you get:
 
 ## Quickstart 🚀
 
+### Python script
 ```python
 from magenta_dynaconn import DatabaseRegistry
 
@@ -54,6 +55,17 @@ p = Product(name="Demo", description="Test")
 session.add(p)
 session.commit()
 ```
+### INI file
+```ini
+[Mi DB]
+source = sqlite
+username = 
+password = 
+host = 
+port = 
+base = ./miarchivo.db
+```
+
 ---
 
 ## Goals for v1.0.0 🎯
