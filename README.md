@@ -1,4 +1,4 @@
-# Magenta Dynaconn 🔌
+# Magenta Dynacon 🔌
 
 Welcome to the magical world of **Magenta Dynaconn**!  
 This library lets you manage **dynamic database connections** and **on-the-fly model generation** with SQLAlchemy, without losing your sanity.
